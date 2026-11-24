@@ -1,272 +1,115 @@
-<!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Sharnika%20J&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Build%20it%20%E2%80%A2%20Break%20it%20%E2%80%A2%20Learn%20from%20it%20%E2%80%A2%20Ship%20it%20better&descAlignY=62&descSize=17" width="100%" alt="Sharnika J banner" />
-
-<a href="https://github.com/sharnikaj-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=70A5FD&center=true&vCenter=true&width=820&height=60&lines=Hi%2C+I'm+Sharnika+%F0%9F%91%8B;MCA+Student+%7C+Full-Stack+%2B+AI+Builder;I+turn+ideas+into+working+apps+%E2%9A%A1;Python+%7C+OpenCV+%7C+React+%7C+PHP+%7C+Flask;Currently+building+ProxyGuard+AI+%F0%9F%9B%A1%EF%B8%8F" alt="Typing animation" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=sharnikaj-dev&label=Profile+views&color=70a5fd&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/sharnikaj-dev?style=for-the-badge&logo=github&color=bf91f3&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/sharnikaj-dev?style=for-the-badge&logo=starship&color=38bdae&labelColor=0d1117" alt="Stars" />
-
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sharnikaj-dev</sub></p>
+<h1>sharnika</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Aspiring Web &amp; AI Developer | Python | NLP | HTML/CSS</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Tamil Nadu, India</sub></p>
+<p><a href="https://github.com/sharnikaj-dev">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/270933148?v=4" width="180" alt="sharnika GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
-<br/>
+<h2>What teams can evaluate quickly</h2>
 
-<!-- ═══════════ ABOUT ═══════════ -->
-## 👩‍💻 `whoami`
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · TypeScript · CSS · Python</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>56 contributions · 17 active days</p></td>
+</tr>
+</table>
 
-```python
-class Sharnika:
-    name     = "Sharnika J"
-    location = "Tamil Nadu, India 🇮🇳"
-    degree   = "MCA @ Rathinam Technical Campus (2027)"
-    stack    = ["Python", "JavaScript", "TypeScript",
-                "PHP", "React", "Flask"]
-    focus    = ["Full-Stack Web", "AI / ML Apps",
-                "Computer Vision", "Data Analytics"]
-    building = ["ProxyGuard AI",
-                "Image Q&A + Caption Generator",
-                "SPEAKUP"]
+<p><sub>Aspiring Web &amp; AI Developer | Python | NLP | HTML/CSS</sub></p>
 
-    def motto(self):
-        return "Build it, break it, learn from it, ship it better."
+<h2>Proof at a glance</h2>
 
-    def status(self):
-        return "🟢 Shipping something new every week"
-```
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>56</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="sharnika GitHub proof metrics" />
+</picture>
+</p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&repos=sharnikaj-dev%2Fholospace-webgl%2Csharnikaj-dev%2Fportfolio%2Csharnikaj-dev%2FAI-IDPS%2Csharnikaj-dev%2Fsharnikaj-dev&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&repos=sharnikaj-dev%2Fholospace-webgl%2Csharnikaj-dev%2Fportfolio%2Csharnikaj-dev%2FAI-IDPS%2Csharnikaj-dev%2Fsharnikaj-dev&v=recruiter-projects-1&mode=dark" width="100%" alt="sharnika selected projects" />
+</picture>
 </td>
-<td width="45%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding animation" />
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/sharnikaj-dev/holospace-webgl">holospace-webgl</a></h3>
+<p>A selected public project.</p>
+<p><sub>TypeScript · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/sharnikaj-dev/holospace-webgl">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
-<br/>
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/sharnikaj-dev/portfolio">portfolio</a></h3><p>A selected public project.</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/sharnikaj-dev/AI-IDPS">AI-IDPS</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/sharnikaj-dev/sharnikaj-dev">sharnikaj-dev</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<!-- ═══════════ NOW ═══════════ -->
-## ⚡ Currently In Progress
+<h2>Technical toolkit</h2>
 
-<div align="center">
-
-| 🔨 Project | 🧰 Tech | 📈 Progress |
-| :-- | :-- | :-- |
-| **ProxyGuard AI** | Python · Computer Vision | ![](https://geps.dev/progress/55?dangerColor=70a5fd&warningColor=70a5fd&successColor=70a5fd) |
-| **Image Q&A + Caption Generator** | Deep Learning · BLIP | ![](https://geps.dev/progress/60?dangerColor=bf91f3&warningColor=bf91f3&successColor=bf91f3) |
-| **SPEAKUP** | Flask · MySQL · LLM · Speech | ![](https://geps.dev/progress/45?dangerColor=38bdae&warningColor=38bdae&successColor=38bdae) |
-
-</div>
-
-> 💡 *Progress bars are my honest self-estimates. Updated as I ship.*
-
-<br/>
-
-<!-- ═══════════ TECH STACK ═══════════ -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=600&color=BF91F3&center=true&vCenter=true&width=500&lines=%3E+loading+skills...;%3E+languages+%E2%9C%94;%3E+frameworks+%E2%9C%94;%3E+ai+%26+vision+%E2%9C%94;%3E+ready+to+build+%F0%9F%9A%80" alt="loading" />
-
-<br/><br/>
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css&theme=dark" alt="languages" />
-
-**Frameworks & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" alt="frameworks" />
-
-**Databases & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="tools" />
-
-**AI / ML & Vision**<br/>
-<img src="https://skillicons.dev/icons?i=opencv,numpy&theme=dark" alt="ai" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════ STATS ═══════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sharnikaj-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharnikaj-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=sharnikaj-dev&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharnikaj-dev&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════ SNAKE ═══════════ -->
-## 🐍 My Contribution Snake
-
-<div align="center">
-
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharnikaj-dev/sharnikaj-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharnikaj-dev/sharnikaj-dev/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/sharnikaj-dev/sharnikaj-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="sharnika technology stack" />
 </picture>
+</p>
 
-<sub>🟢 The snake eats my commits. Feed it daily!</sub>
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>64% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>11% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>10% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>4% of public code</sub></td>
+</tr>
+</table>
 
-</div>
+<h2>Consistency signal</h2>
 
-<br/>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sharnikaj-dev&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F270933148%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="sharnika contribution activity" />
+</picture>
+</p>
 
-<!-- ═══════════ PROJECTS ═══════════ -->
-## 🚀 Featured Projects
+<hr />
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sharnikaj-dev">GitHub</a></td>
+</tr>
+</table>
 
-<a href="https://github.com/sharnikaj-dev/Air--Draw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharnikaj-dev&repo=Air--Draw&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="Air Draw" />
-</a>
-<a href="https://github.com/sharnikaj-dev/student-notes-sharing-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharnikaj-dev&repo=student-notes-sharing-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="Student Notes Sharing Platform" />
-</a>
-<a href="https://github.com/sharnikaj-dev/EduNova-LMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharnikaj-dev&repo=EduNova-LMS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9" alt="EduNova LMS" />
-</a>
-
-</div>
-
-<br/>
-
-<details open>
-<summary><b>🖐️ Air Draw</b> — touchless painting with your hand</summary>
-<br/>
-
-Draw in the air using nothing but your webcam. Hand tracking turns finger movement into strokes on a virtual canvas.
-
-`Python` `OpenCV` `MediaPipe` `NumPy`
-
-</details>
-
-<details>
-<summary><b>📚 Student Notes Sharing Platform</b> — notes + AI help</summary>
-<br/>
-
-Students upload, organize and learn from academic notes, with Gemini AI helping them study.
-
-`React` `TypeScript` `Express.js` `Gemini AI`
-
-</details>
-
-<details>
-<summary><b>🎓 EduNova LMS</b> — a modern Learning Management System</summary>
-<br/>
-
-Courses and learners in one clean platform.
-
-`PHP` `MySQL` `CSS`
-
-</details>
-
-<details>
-<summary><b>🛡️ ProxyGuard AI</b> <i>(in progress)</i> — interview malpractice detection</summary>
-<br/>
-
-AI-based detection of malpractice during online interviews, built on computer vision.
-
-`Python` `Computer Vision`
-
-</details>
-
-<details>
-<summary><b>🗣️ SPEAKUP</b> <i>(in progress)</i> — learn English by conversation</summary>
-<br/>
-
-A progressive English conversation-learning platform with levels, an LLM partner and speech support.
-
-`Flask` `MySQL` `LLM` `Speech`
-
-</details>
-
-<br/>
-
-<!-- ═══════════ LEARNING ═══════════ -->
-## 🌱 Currently Learning
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  🧠 Deep Learning    →  CNNs, vision models, BLIP        │
-│  🌐 Full-Stack       →  React, TypeScript, Node, REST    │
-│  🎯 Computer Vision  →  OpenCV, MediaPipe, real-time     │
-│  🔧 Git Workflow     →  branches, PRs, clean commits     │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<!-- ═══════════ GOALS ═══════════ -->
-## 🎯 My GitHub Growth Goals
-
-- [x] Build a profile README that actually looks alive
-- [ ] Commit something small **every day** (even a README fix counts)
-- [ ] Push ProxyGuard AI's first working demo
-- [ ] Add a clean README + screenshots to every project
-- [ ] Open my first pull request to an open-source repo
-- [ ] Write one short dev note per month
-
-<br/>
-
-<!-- ═══════════ TROPHIES ═══════════ -->
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sharnikaj-dev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="trophies" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════ CONNECT ═══════════ -->
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sharnika">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:sharnikajayakumar69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/sharnikaj-dev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Talk+is+cheap.+Show+me+the+code.&author=Linus+Torvalds" alt="quote" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%92%9C;Let's+build+something+together+%E2%9C%A8" alt="footer typing" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave" />
+<p align="center"><sub>sharnika · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
